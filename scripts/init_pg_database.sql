@@ -23,7 +23,6 @@ WARNING:
 
 */
 
-```sql
 -- dropping table if it exists
 DROP DATABASE IF EXISTS firstdatawarehouse;
 
@@ -37,4 +36,3 @@ CREATE DATABASE firstdatawarehouse;
 CREATE SCHEMA bronze;
 CREATE SCHEMA silver;
 CREATE SCHEMA gold;
-```
