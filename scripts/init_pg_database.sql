@@ -7,7 +7,7 @@ Running Environment:
   If you intend to run it in gui tools like pgAdmin or something else, 
   then create a separate script for creating the database, 
   and then switching to the newly created database using the gui. 
-  Once connected to the new database, run the commands after this statement - `\c firstdatawarehouse`.
+  Once connected to the new database, run the rest of the script past this command - `\c firstdatawarehouse`.
 
 
 Script Purpose:
